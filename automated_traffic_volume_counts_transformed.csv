@@ -1,0 +1,655 @@
+year,month,location_id,direction,value_type,value,data_source
+2000,1,Manhattan,null,vehicle_count,145282,automated_traffic_volume_counts
+2000,1,Staten Island,null,vehicle_count,98480,automated_traffic_volume_counts
+2006,9,Manhattan,null,vehicle_count,436883,automated_traffic_volume_counts
+2006,11,Manhattan,null,vehicle_count,49686,automated_traffic_volume_counts
+2007,3,Bronx,null,vehicle_count,125542,automated_traffic_volume_counts
+2007,4,Bronx,null,vehicle_count,121759,automated_traffic_volume_counts
+2007,4,Brooklyn,null,vehicle_count,701089,automated_traffic_volume_counts
+2007,4,Queens,null,vehicle_count,427301,automated_traffic_volume_counts
+2007,5,Bronx,null,vehicle_count,618690,automated_traffic_volume_counts
+2007,5,Brooklyn,null,vehicle_count,327817,automated_traffic_volume_counts
+2007,10,Manhattan,null,vehicle_count,588662,automated_traffic_volume_counts
+2007,11,Brooklyn,null,vehicle_count,676808,automated_traffic_volume_counts
+2008,3,Brooklyn,null,vehicle_count,446894,automated_traffic_volume_counts
+2008,3,Queens,null,vehicle_count,783426,automated_traffic_volume_counts
+2008,3,Staten Island,null,vehicle_count,433817,automated_traffic_volume_counts
+2008,4,Bronx,null,vehicle_count,4124132,automated_traffic_volume_counts
+2008,4,Brooklyn,null,vehicle_count,1472080,automated_traffic_volume_counts
+2008,4,Queens,null,vehicle_count,460778,automated_traffic_volume_counts
+2008,5,Bronx,null,vehicle_count,7617731,automated_traffic_volume_counts
+2008,5,Brooklyn,null,vehicle_count,927116,automated_traffic_volume_counts
+2008,5,Queens,null,vehicle_count,1033493,automated_traffic_volume_counts
+2008,6,Bronx,null,vehicle_count,2089675,automated_traffic_volume_counts
+2008,6,Brooklyn,null,vehicle_count,2354884,automated_traffic_volume_counts
+2008,6,Queens,null,vehicle_count,2061309,automated_traffic_volume_counts
+2008,7,Manhattan,null,vehicle_count,164984,automated_traffic_volume_counts
+2008,8,Manhattan,null,vehicle_count,1740941,automated_traffic_volume_counts
+2008,9,Brooklyn,null,vehicle_count,226529,automated_traffic_volume_counts
+2009,1,Bronx,null,vehicle_count,64582,automated_traffic_volume_counts
+2009,1,Brooklyn,null,vehicle_count,500142,automated_traffic_volume_counts
+2009,1,Manhattan,null,vehicle_count,2943759,automated_traffic_volume_counts
+2009,1,Queens,null,vehicle_count,121723,automated_traffic_volume_counts
+2009,2,Bronx,null,vehicle_count,48828,automated_traffic_volume_counts
+2009,2,Brooklyn,null,vehicle_count,725666,automated_traffic_volume_counts
+2009,2,Manhattan,null,vehicle_count,2601156,automated_traffic_volume_counts
+2009,2,Queens,null,vehicle_count,171186,automated_traffic_volume_counts
+2009,2,Staten Island,null,vehicle_count,80865,automated_traffic_volume_counts
+2009,3,Bronx,null,vehicle_count,404521,automated_traffic_volume_counts
+2009,3,Brooklyn,null,vehicle_count,228351,automated_traffic_volume_counts
+2009,3,Queens,null,vehicle_count,935618,automated_traffic_volume_counts
+2009,3,Staten Island,null,vehicle_count,835654,automated_traffic_volume_counts
+2009,4,Bronx,null,vehicle_count,805537,automated_traffic_volume_counts
+2009,4,Brooklyn,null,vehicle_count,1464324,automated_traffic_volume_counts
+2009,4,Manhattan,null,vehicle_count,71090,automated_traffic_volume_counts
+2009,4,Queens,null,vehicle_count,932298,automated_traffic_volume_counts
+2009,4,Staten Island,null,vehicle_count,1043729,automated_traffic_volume_counts
+2009,5,Bronx,null,vehicle_count,1226006,automated_traffic_volume_counts
+2009,5,Brooklyn,null,vehicle_count,700337,automated_traffic_volume_counts
+2009,5,Manhattan,null,vehicle_count,1407749,automated_traffic_volume_counts
+2009,5,Queens,null,vehicle_count,453505,automated_traffic_volume_counts
+2009,5,Staten Island,null,vehicle_count,507426,automated_traffic_volume_counts
+2009,6,Bronx,null,vehicle_count,68779,automated_traffic_volume_counts
+2009,6,Brooklyn,null,vehicle_count,1880705,automated_traffic_volume_counts
+2009,6,Manhattan,null,vehicle_count,124903,automated_traffic_volume_counts
+2009,6,Queens,null,vehicle_count,1510131,automated_traffic_volume_counts
+2009,6,Staten Island,null,vehicle_count,2283233,automated_traffic_volume_counts
+2009,7,Brooklyn,null,vehicle_count,84371,automated_traffic_volume_counts
+2009,7,Queens,null,vehicle_count,347866,automated_traffic_volume_counts
+2009,7,Staten Island,null,vehicle_count,377444,automated_traffic_volume_counts
+2009,8,Brooklyn,null,vehicle_count,269164,automated_traffic_volume_counts
+2009,8,Manhattan,null,vehicle_count,411226,automated_traffic_volume_counts
+2009,8,Queens,null,vehicle_count,61182,automated_traffic_volume_counts
+2009,9,Bronx,null,vehicle_count,59698,automated_traffic_volume_counts
+2009,9,Brooklyn,null,vehicle_count,1877692,automated_traffic_volume_counts
+2009,9,Manhattan,null,vehicle_count,4924116,automated_traffic_volume_counts
+2009,9,Queens,null,vehicle_count,2484190,automated_traffic_volume_counts
+2009,9,Staten Island,null,vehicle_count,2823946,automated_traffic_volume_counts
+2009,10,Bronx,null,vehicle_count,1550471,automated_traffic_volume_counts
+2009,10,Brooklyn,null,vehicle_count,1978333,automated_traffic_volume_counts
+2009,10,Manhattan,null,vehicle_count,17043716,automated_traffic_volume_counts
+2009,10,Queens,null,vehicle_count,548482,automated_traffic_volume_counts
+2009,10,Staten Island,null,vehicle_count,36870,automated_traffic_volume_counts
+2009,11,Bronx,null,vehicle_count,1300189,automated_traffic_volume_counts
+2009,11,Brooklyn,null,vehicle_count,531301,automated_traffic_volume_counts
+2009,11,Manhattan,null,vehicle_count,5911134,automated_traffic_volume_counts
+2009,11,Queens,null,vehicle_count,6014335,automated_traffic_volume_counts
+2009,11,Staten Island,null,vehicle_count,266147,automated_traffic_volume_counts
+2009,12,Bronx,null,vehicle_count,1255355,automated_traffic_volume_counts
+2009,12,Brooklyn,null,vehicle_count,7036430,automated_traffic_volume_counts
+2009,12,Manhattan,null,vehicle_count,39293,automated_traffic_volume_counts
+2009,12,Queens,null,vehicle_count,3183163,automated_traffic_volume_counts
+2009,12,Staten Island,null,vehicle_count,2000451,automated_traffic_volume_counts
+2010,1,Bronx,null,vehicle_count,184650,automated_traffic_volume_counts
+2010,1,Brooklyn,null,vehicle_count,597895,automated_traffic_volume_counts
+2010,1,Queens,null,vehicle_count,4449060,automated_traffic_volume_counts
+2010,2,Bronx,null,vehicle_count,610535,automated_traffic_volume_counts
+2010,2,Brooklyn,null,vehicle_count,344359,automated_traffic_volume_counts
+2010,2,Queens,null,vehicle_count,206506,automated_traffic_volume_counts
+2010,2,Staten Island,null,vehicle_count,359810,automated_traffic_volume_counts
+2010,3,Bronx,null,vehicle_count,1022790,automated_traffic_volume_counts
+2010,3,Brooklyn,null,vehicle_count,702815,automated_traffic_volume_counts
+2010,3,Manhattan,null,vehicle_count,8783196,automated_traffic_volume_counts
+2010,3,Queens,null,vehicle_count,5022103,automated_traffic_volume_counts
+2010,3,Staten Island,null,vehicle_count,65948,automated_traffic_volume_counts
+2010,4,Bronx,null,vehicle_count,3139464,automated_traffic_volume_counts
+2010,4,Brooklyn,null,vehicle_count,5030674,automated_traffic_volume_counts
+2010,4,Manhattan,null,vehicle_count,149489,automated_traffic_volume_counts
+2010,4,Queens,null,vehicle_count,7574975,automated_traffic_volume_counts
+2010,4,Staten Island,null,vehicle_count,140311,automated_traffic_volume_counts
+2010,5,Bronx,null,vehicle_count,6414420,automated_traffic_volume_counts
+2010,5,Brooklyn,null,vehicle_count,4588132,automated_traffic_volume_counts
+2010,5,Manhattan,null,vehicle_count,933471,automated_traffic_volume_counts
+2010,5,Queens,null,vehicle_count,8741163,automated_traffic_volume_counts
+2010,5,Staten Island,null,vehicle_count,698999,automated_traffic_volume_counts
+2010,6,Bronx,null,vehicle_count,6190179,automated_traffic_volume_counts
+2010,6,Brooklyn,null,vehicle_count,6523522,automated_traffic_volume_counts
+2010,6,Manhattan,null,vehicle_count,162351,automated_traffic_volume_counts
+2010,6,Queens,null,vehicle_count,3317414,automated_traffic_volume_counts
+2010,6,Staten Island,null,vehicle_count,604752,automated_traffic_volume_counts
+2010,7,Bronx,null,vehicle_count,33541,automated_traffic_volume_counts
+2010,7,Brooklyn,null,vehicle_count,7815603,automated_traffic_volume_counts
+2010,7,Queens,null,vehicle_count,312335,automated_traffic_volume_counts
+2010,7,Staten Island,null,vehicle_count,172982,automated_traffic_volume_counts
+2010,8,Brooklyn,null,vehicle_count,923011,automated_traffic_volume_counts
+2010,8,Queens,null,vehicle_count,578768,automated_traffic_volume_counts
+2010,9,Bronx,null,vehicle_count,4965438,automated_traffic_volume_counts
+2010,9,Brooklyn,null,vehicle_count,5450901,automated_traffic_volume_counts
+2010,9,Manhattan,null,vehicle_count,3940780,automated_traffic_volume_counts
+2010,9,Queens,null,vehicle_count,2310107,automated_traffic_volume_counts
+2010,9,Staten Island,null,vehicle_count,1664968,automated_traffic_volume_counts
+2010,10,Bronx,null,vehicle_count,807057,automated_traffic_volume_counts
+2010,10,Brooklyn,null,vehicle_count,2925047,automated_traffic_volume_counts
+2010,10,Manhattan,null,vehicle_count,16545555,automated_traffic_volume_counts
+2010,10,Queens,null,vehicle_count,2312272,automated_traffic_volume_counts
+2010,10,Staten Island,null,vehicle_count,4517,automated_traffic_volume_counts
+2010,11,Bronx,null,vehicle_count,1061363,automated_traffic_volume_counts
+2010,11,Brooklyn,null,vehicle_count,1150444,automated_traffic_volume_counts
+2010,11,Manhattan,null,vehicle_count,5104886,automated_traffic_volume_counts
+2010,11,Queens,null,vehicle_count,371580,automated_traffic_volume_counts
+2010,11,Staten Island,null,vehicle_count,17235,automated_traffic_volume_counts
+2010,12,Bronx,null,vehicle_count,1203014,automated_traffic_volume_counts
+2010,12,Brooklyn,null,vehicle_count,1901475,automated_traffic_volume_counts
+2010,12,Manhattan,null,vehicle_count,1612985,automated_traffic_volume_counts
+2010,12,Queens,null,vehicle_count,568435,automated_traffic_volume_counts
+2010,12,Staten Island,null,vehicle_count,20547,automated_traffic_volume_counts
+2011,1,Brooklyn,null,vehicle_count,798217,automated_traffic_volume_counts
+2011,1,Manhattan,null,vehicle_count,87445,automated_traffic_volume_counts
+2011,1,Queens,null,vehicle_count,412559,automated_traffic_volume_counts
+2011,1,Staten Island,null,vehicle_count,89792,automated_traffic_volume_counts
+2011,2,Bronx,null,vehicle_count,1610964,automated_traffic_volume_counts
+2011,2,Brooklyn,null,vehicle_count,5710447,automated_traffic_volume_counts
+2011,2,Manhattan,null,vehicle_count,1665762,automated_traffic_volume_counts
+2011,2,Queens,null,vehicle_count,2106845,automated_traffic_volume_counts
+2011,3,Bronx,null,vehicle_count,5607894,automated_traffic_volume_counts
+2011,3,Brooklyn,null,vehicle_count,4867366,automated_traffic_volume_counts
+2011,3,Manhattan,null,vehicle_count,897896,automated_traffic_volume_counts
+2011,3,Queens,null,vehicle_count,4198641,automated_traffic_volume_counts
+2011,3,Staten Island,null,vehicle_count,1668663,automated_traffic_volume_counts
+2011,4,Bronx,null,vehicle_count,7939143,automated_traffic_volume_counts
+2011,4,Brooklyn,null,vehicle_count,5791643,automated_traffic_volume_counts
+2011,4,Manhattan,null,vehicle_count,18343546,automated_traffic_volume_counts
+2011,4,Queens,null,vehicle_count,3805469,automated_traffic_volume_counts
+2011,5,Bronx,null,vehicle_count,7274632,automated_traffic_volume_counts
+2011,5,Brooklyn,null,vehicle_count,4957164,automated_traffic_volume_counts
+2011,5,Manhattan,null,vehicle_count,1691995,automated_traffic_volume_counts
+2011,5,Queens,null,vehicle_count,7703593,automated_traffic_volume_counts
+2011,5,Staten Island,null,vehicle_count,3143733,automated_traffic_volume_counts
+2011,6,Bronx,null,vehicle_count,3116799,automated_traffic_volume_counts
+2011,6,Brooklyn,null,vehicle_count,1245058,automated_traffic_volume_counts
+2011,6,Queens,null,vehicle_count,8374391,automated_traffic_volume_counts
+2011,6,Staten Island,null,vehicle_count,147838,automated_traffic_volume_counts
+2011,7,Bronx,null,vehicle_count,116835,automated_traffic_volume_counts
+2011,7,Brooklyn,null,vehicle_count,666999,automated_traffic_volume_counts
+2011,7,Manhattan,null,vehicle_count,126963,automated_traffic_volume_counts
+2011,7,Queens,null,vehicle_count,245362,automated_traffic_volume_counts
+2011,7,Staten Island,null,vehicle_count,400132,automated_traffic_volume_counts
+2011,8,Brooklyn,null,vehicle_count,335744,automated_traffic_volume_counts
+2011,8,Manhattan,null,vehicle_count,11972292,automated_traffic_volume_counts
+2011,8,Queens,null,vehicle_count,203272,automated_traffic_volume_counts
+2011,9,Bronx,null,vehicle_count,488506,automated_traffic_volume_counts
+2011,9,Brooklyn,null,vehicle_count,1057925,automated_traffic_volume_counts
+2011,9,Manhattan,null,vehicle_count,1054819,automated_traffic_volume_counts
+2011,9,Queens,null,vehicle_count,745172,automated_traffic_volume_counts
+2011,9,Staten Island,null,vehicle_count,1041491,automated_traffic_volume_counts
+2011,10,Bronx,null,vehicle_count,31897,automated_traffic_volume_counts
+2011,10,Brooklyn,null,vehicle_count,1576378,automated_traffic_volume_counts
+2011,10,Manhattan,null,vehicle_count,1590404,automated_traffic_volume_counts
+2011,10,Queens,null,vehicle_count,442388,automated_traffic_volume_counts
+2011,10,Staten Island,null,vehicle_count,3443485,automated_traffic_volume_counts
+2011,11,Bronx,null,vehicle_count,240434,automated_traffic_volume_counts
+2011,11,Brooklyn,null,vehicle_count,1596552,automated_traffic_volume_counts
+2011,11,Queens,null,vehicle_count,619132,automated_traffic_volume_counts
+2011,11,Staten Island,null,vehicle_count,29086,automated_traffic_volume_counts
+2011,12,Bronx,null,vehicle_count,977911,automated_traffic_volume_counts
+2012,1,Bronx,null,vehicle_count,1426169,automated_traffic_volume_counts
+2012,1,Brooklyn,null,vehicle_count,3024042,automated_traffic_volume_counts
+2012,1,Manhattan,null,vehicle_count,252294,automated_traffic_volume_counts
+2012,1,Queens,null,vehicle_count,4613556,automated_traffic_volume_counts
+2012,1,Staten Island,null,vehicle_count,3073593,automated_traffic_volume_counts
+2012,2,Bronx,null,vehicle_count,5976515,automated_traffic_volume_counts
+2012,2,Brooklyn,null,vehicle_count,1158105,automated_traffic_volume_counts
+2012,2,Queens,null,vehicle_count,10121767,automated_traffic_volume_counts
+2012,3,Brooklyn,null,vehicle_count,202648,automated_traffic_volume_counts
+2012,3,Manhattan,null,vehicle_count,2278030,automated_traffic_volume_counts
+2012,3,Queens,null,vehicle_count,1103583,automated_traffic_volume_counts
+2012,4,Bronx,null,vehicle_count,3444151,automated_traffic_volume_counts
+2012,4,Brooklyn,null,vehicle_count,5993858,automated_traffic_volume_counts
+2012,4,Manhattan,null,vehicle_count,1977313,automated_traffic_volume_counts
+2012,4,Queens,null,vehicle_count,10479873,automated_traffic_volume_counts
+2012,4,Staten Island,null,vehicle_count,719781,automated_traffic_volume_counts
+2012,5,Bronx,null,vehicle_count,2850020,automated_traffic_volume_counts
+2012,5,Brooklyn,null,vehicle_count,3380226,automated_traffic_volume_counts
+2012,5,Manhattan,null,vehicle_count,2329799,automated_traffic_volume_counts
+2012,5,Queens,null,vehicle_count,4286542,automated_traffic_volume_counts
+2012,5,Staten Island,null,vehicle_count,2882243,automated_traffic_volume_counts
+2012,6,Bronx,null,vehicle_count,11829327,automated_traffic_volume_counts
+2012,6,Brooklyn,null,vehicle_count,10773872,automated_traffic_volume_counts
+2012,6,Manhattan,null,vehicle_count,14269579,automated_traffic_volume_counts
+2012,6,Queens,null,vehicle_count,19290641,automated_traffic_volume_counts
+2012,6,Staten Island,null,vehicle_count,2708004,automated_traffic_volume_counts
+2012,7,Bronx,null,vehicle_count,43187,automated_traffic_volume_counts
+2012,7,Brooklyn,null,vehicle_count,959290,automated_traffic_volume_counts
+2012,7,Manhattan,null,vehicle_count,392184,automated_traffic_volume_counts
+2012,7,Queens,null,vehicle_count,565130,automated_traffic_volume_counts
+2012,8,Bronx,null,vehicle_count,160767,automated_traffic_volume_counts
+2012,8,Brooklyn,null,vehicle_count,65165,automated_traffic_volume_counts
+2012,8,Manhattan,null,vehicle_count,269432,automated_traffic_volume_counts
+2012,8,Queens,null,vehicle_count,662661,automated_traffic_volume_counts
+2012,8,Staten Island,null,vehicle_count,432296,automated_traffic_volume_counts
+2012,9,Bronx,null,vehicle_count,473923,automated_traffic_volume_counts
+2012,9,Brooklyn,null,vehicle_count,4938944,automated_traffic_volume_counts
+2012,9,Manhattan,null,vehicle_count,11486295,automated_traffic_volume_counts
+2012,9,Queens,null,vehicle_count,1142189,automated_traffic_volume_counts
+2012,9,Staten Island,null,vehicle_count,473662,automated_traffic_volume_counts
+2012,10,Bronx,null,vehicle_count,11939459,automated_traffic_volume_counts
+2012,10,Brooklyn,null,vehicle_count,23476445,automated_traffic_volume_counts
+2012,10,Manhattan,null,vehicle_count,41990943,automated_traffic_volume_counts
+2012,10,Queens,null,vehicle_count,18217128,automated_traffic_volume_counts
+2012,10,Staten Island,null,vehicle_count,2138499,automated_traffic_volume_counts
+2012,11,Bronx,null,vehicle_count,93073,automated_traffic_volume_counts
+2012,11,Brooklyn,null,vehicle_count,1094889,automated_traffic_volume_counts
+2012,11,Manhattan,null,vehicle_count,7912544,automated_traffic_volume_counts
+2012,11,Queens,null,vehicle_count,605132,automated_traffic_volume_counts
+2012,11,Staten Island,null,vehicle_count,132108,automated_traffic_volume_counts
+2012,12,Brooklyn,null,vehicle_count,445958,automated_traffic_volume_counts
+2012,12,Manhattan,null,vehicle_count,812738,automated_traffic_volume_counts
+2012,12,Queens,null,vehicle_count,901608,automated_traffic_volume_counts
+2012,12,Staten Island,null,vehicle_count,2305004,automated_traffic_volume_counts
+2013,1,Bronx,null,vehicle_count,2578827,automated_traffic_volume_counts
+2013,1,Brooklyn,null,vehicle_count,3912427,automated_traffic_volume_counts
+2013,1,Manhattan,null,vehicle_count,4300998,automated_traffic_volume_counts
+2013,1,Queens,null,vehicle_count,4226990,automated_traffic_volume_counts
+2013,1,Staten Island,null,vehicle_count,77727,automated_traffic_volume_counts
+2013,2,Bronx,null,vehicle_count,4557274,automated_traffic_volume_counts
+2013,2,Brooklyn,null,vehicle_count,4631087,automated_traffic_volume_counts
+2013,2,Manhattan,null,vehicle_count,3768459,automated_traffic_volume_counts
+2013,2,Queens,null,vehicle_count,4860692,automated_traffic_volume_counts
+2013,2,Staten Island,null,vehicle_count,526586,automated_traffic_volume_counts
+2013,3,Bronx,null,vehicle_count,5335293,automated_traffic_volume_counts
+2013,3,Brooklyn,null,vehicle_count,3698456,automated_traffic_volume_counts
+2013,3,Manhattan,null,vehicle_count,1304078,automated_traffic_volume_counts
+2013,3,Queens,null,vehicle_count,2232514,automated_traffic_volume_counts
+2013,3,Staten Island,null,vehicle_count,1173557,automated_traffic_volume_counts
+2013,4,Bronx,null,vehicle_count,2674590,automated_traffic_volume_counts
+2013,4,Brooklyn,null,vehicle_count,7153645,automated_traffic_volume_counts
+2013,4,Manhattan,null,vehicle_count,1707304,automated_traffic_volume_counts
+2013,4,Queens,null,vehicle_count,5174213,automated_traffic_volume_counts
+2013,4,Staten Island,null,vehicle_count,264055,automated_traffic_volume_counts
+2013,5,Bronx,null,vehicle_count,10453655,automated_traffic_volume_counts
+2013,5,Brooklyn,null,vehicle_count,3415710,automated_traffic_volume_counts
+2013,5,Manhattan,null,vehicle_count,4947017,automated_traffic_volume_counts
+2013,5,Queens,null,vehicle_count,9291353,automated_traffic_volume_counts
+2013,5,Staten Island,null,vehicle_count,24365,automated_traffic_volume_counts
+2013,6,Bronx,null,vehicle_count,6945027,automated_traffic_volume_counts
+2013,6,Brooklyn,null,vehicle_count,7232835,automated_traffic_volume_counts
+2013,6,Manhattan,null,vehicle_count,8417144,automated_traffic_volume_counts
+2013,6,Queens,null,vehicle_count,19867963,automated_traffic_volume_counts
+2013,6,Staten Island,null,vehicle_count,1033711,automated_traffic_volume_counts
+2013,7,Bronx,null,vehicle_count,87578,automated_traffic_volume_counts
+2013,7,Brooklyn,null,vehicle_count,46384,automated_traffic_volume_counts
+2013,7,Manhattan,null,vehicle_count,13661658,automated_traffic_volume_counts
+2013,8,Brooklyn,null,vehicle_count,166609,automated_traffic_volume_counts
+2013,8,Manhattan,null,vehicle_count,4811066,automated_traffic_volume_counts
+2013,8,Queens,null,vehicle_count,318065,automated_traffic_volume_counts
+2013,9,Bronx,null,vehicle_count,34549,automated_traffic_volume_counts
+2013,9,Brooklyn,null,vehicle_count,8283035,automated_traffic_volume_counts
+2013,9,Manhattan,null,vehicle_count,5215799,automated_traffic_volume_counts
+2013,9,Queens,null,vehicle_count,941221,automated_traffic_volume_counts
+2013,9,Staten Island,null,vehicle_count,1009948,automated_traffic_volume_counts
+2013,10,Bronx,null,vehicle_count,8673343,automated_traffic_volume_counts
+2013,10,Brooklyn,null,vehicle_count,9987927,automated_traffic_volume_counts
+2013,10,Manhattan,null,vehicle_count,29489303,automated_traffic_volume_counts
+2013,10,Queens,null,vehicle_count,9823749,automated_traffic_volume_counts
+2013,10,Staten Island,null,vehicle_count,2005922,automated_traffic_volume_counts
+2013,11,Bronx,null,vehicle_count,5335807,automated_traffic_volume_counts
+2013,11,Brooklyn,null,vehicle_count,5134605,automated_traffic_volume_counts
+2013,11,Manhattan,null,vehicle_count,16313104,automated_traffic_volume_counts
+2013,11,Queens,null,vehicle_count,14381077,automated_traffic_volume_counts
+2013,11,Staten Island,null,vehicle_count,777767,automated_traffic_volume_counts
+2013,12,Bronx,null,vehicle_count,3405608,automated_traffic_volume_counts
+2013,12,Brooklyn,null,vehicle_count,3075228,automated_traffic_volume_counts
+2013,12,Manhattan,null,vehicle_count,5770722,automated_traffic_volume_counts
+2013,12,Queens,null,vehicle_count,1135643,automated_traffic_volume_counts
+2013,12,Staten Island,null,vehicle_count,28093,automated_traffic_volume_counts
+2014,1,Bronx,null,vehicle_count,1066520,automated_traffic_volume_counts
+2014,1,Brooklyn,null,vehicle_count,1240367,automated_traffic_volume_counts
+2014,1,Manhattan,null,vehicle_count,1711912,automated_traffic_volume_counts
+2014,1,Queens,null,vehicle_count,409331,automated_traffic_volume_counts
+2014,1,Staten Island,null,vehicle_count,251248,automated_traffic_volume_counts
+2014,2,Bronx,null,vehicle_count,151938,automated_traffic_volume_counts
+2014,2,Brooklyn,null,vehicle_count,1065172,automated_traffic_volume_counts
+2014,2,Manhattan,null,vehicle_count,5318743,automated_traffic_volume_counts
+2014,2,Queens,null,vehicle_count,3388925,automated_traffic_volume_counts
+2014,2,Staten Island,null,vehicle_count,326346,automated_traffic_volume_counts
+2014,3,Bronx,null,vehicle_count,3548541,automated_traffic_volume_counts
+2014,3,Brooklyn,null,vehicle_count,7083826,automated_traffic_volume_counts
+2014,3,Manhattan,null,vehicle_count,3719863,automated_traffic_volume_counts
+2014,3,Queens,null,vehicle_count,3084239,automated_traffic_volume_counts
+2014,3,Staten Island,null,vehicle_count,887158,automated_traffic_volume_counts
+2014,4,Bronx,null,vehicle_count,1925863,automated_traffic_volume_counts
+2014,4,Brooklyn,null,vehicle_count,7874029,automated_traffic_volume_counts
+2014,4,Manhattan,null,vehicle_count,3388604,automated_traffic_volume_counts
+2014,4,Queens,null,vehicle_count,5893432,automated_traffic_volume_counts
+2014,4,Staten Island,null,vehicle_count,285613,automated_traffic_volume_counts
+2014,5,Bronx,null,vehicle_count,1114251,automated_traffic_volume_counts
+2014,5,Brooklyn,null,vehicle_count,3362463,automated_traffic_volume_counts
+2014,5,Manhattan,null,vehicle_count,5197793,automated_traffic_volume_counts
+2014,5,Queens,null,vehicle_count,14546934,automated_traffic_volume_counts
+2014,5,Staten Island,null,vehicle_count,1035846,automated_traffic_volume_counts
+2014,6,Bronx,null,vehicle_count,17184519,automated_traffic_volume_counts
+2014,6,Brooklyn,null,vehicle_count,23915916,automated_traffic_volume_counts
+2014,6,Manhattan,null,vehicle_count,16032367,automated_traffic_volume_counts
+2014,6,Queens,null,vehicle_count,36068703,automated_traffic_volume_counts
+2014,6,Staten Island,null,vehicle_count,1315251,automated_traffic_volume_counts
+2014,7,Bronx,null,vehicle_count,238847,automated_traffic_volume_counts
+2014,7,Brooklyn,null,vehicle_count,2647522,automated_traffic_volume_counts
+2014,7,Manhattan,null,vehicle_count,18424696,automated_traffic_volume_counts
+2014,7,Queens,null,vehicle_count,1096007,automated_traffic_volume_counts
+2014,7,Staten Island,null,vehicle_count,34083,automated_traffic_volume_counts
+2014,8,Bronx,null,vehicle_count,657404,automated_traffic_volume_counts
+2014,8,Brooklyn,null,vehicle_count,1806330,automated_traffic_volume_counts
+2014,8,Manhattan,null,vehicle_count,5520961,automated_traffic_volume_counts
+2014,8,Queens,null,vehicle_count,1612486,automated_traffic_volume_counts
+2014,8,Staten Island,null,vehicle_count,326071,automated_traffic_volume_counts
+2014,9,Bronx,null,vehicle_count,13602525,automated_traffic_volume_counts
+2014,9,Brooklyn,null,vehicle_count,8234024,automated_traffic_volume_counts
+2014,9,Manhattan,null,vehicle_count,12304807,automated_traffic_volume_counts
+2014,9,Queens,null,vehicle_count,6736786,automated_traffic_volume_counts
+2014,9,Staten Island,null,vehicle_count,1106463,automated_traffic_volume_counts
+2014,10,Bronx,null,vehicle_count,1581832,automated_traffic_volume_counts
+2014,10,Brooklyn,null,vehicle_count,14386772,automated_traffic_volume_counts
+2014,10,Manhattan,null,vehicle_count,47735532,automated_traffic_volume_counts
+2014,10,Queens,null,vehicle_count,25702561,automated_traffic_volume_counts
+2014,10,Staten Island,null,vehicle_count,2797483,automated_traffic_volume_counts
+2014,11,Bronx,null,vehicle_count,16407165,automated_traffic_volume_counts
+2014,11,Brooklyn,null,vehicle_count,26979243,automated_traffic_volume_counts
+2014,11,Manhattan,null,vehicle_count,4318850,automated_traffic_volume_counts
+2014,11,Queens,null,vehicle_count,19436616,automated_traffic_volume_counts
+2014,11,Staten Island,null,vehicle_count,706152,automated_traffic_volume_counts
+2014,12,Bronx,null,vehicle_count,501333,automated_traffic_volume_counts
+2014,12,Brooklyn,null,vehicle_count,1907754,automated_traffic_volume_counts
+2014,12,Manhattan,null,vehicle_count,54333,automated_traffic_volume_counts
+2014,12,Queens,null,vehicle_count,1703568,automated_traffic_volume_counts
+2015,1,Bronx,null,vehicle_count,3167904,automated_traffic_volume_counts
+2015,1,Brooklyn,null,vehicle_count,1049219,automated_traffic_volume_counts
+2015,1,Manhattan,null,vehicle_count,4644151,automated_traffic_volume_counts
+2015,1,Queens,null,vehicle_count,640215,automated_traffic_volume_counts
+2015,2,Bronx,null,vehicle_count,1890062,automated_traffic_volume_counts
+2015,2,Brooklyn,null,vehicle_count,1760161,automated_traffic_volume_counts
+2015,2,Manhattan,null,vehicle_count,196667,automated_traffic_volume_counts
+2015,2,Queens,null,vehicle_count,477071,automated_traffic_volume_counts
+2015,2,Staten Island,null,vehicle_count,1085661,automated_traffic_volume_counts
+2015,3,Bronx,null,vehicle_count,4647006,automated_traffic_volume_counts
+2015,3,Brooklyn,null,vehicle_count,14238073,automated_traffic_volume_counts
+2015,3,Manhattan,null,vehicle_count,9128533,automated_traffic_volume_counts
+2015,3,Queens,null,vehicle_count,2217464,automated_traffic_volume_counts
+2015,3,Staten Island,null,vehicle_count,979152,automated_traffic_volume_counts
+2015,4,Bronx,null,vehicle_count,2886378,automated_traffic_volume_counts
+2015,4,Brooklyn,null,vehicle_count,6350407,automated_traffic_volume_counts
+2015,4,Manhattan,null,vehicle_count,7760351,automated_traffic_volume_counts
+2015,4,Queens,null,vehicle_count,9875689,automated_traffic_volume_counts
+2015,5,Bronx,null,vehicle_count,8264289,automated_traffic_volume_counts
+2015,5,Brooklyn,null,vehicle_count,8545083,automated_traffic_volume_counts
+2015,5,Manhattan,null,vehicle_count,16082488,automated_traffic_volume_counts
+2015,5,Queens,null,vehicle_count,14167790,automated_traffic_volume_counts
+2015,5,Staten Island,null,vehicle_count,218999,automated_traffic_volume_counts
+2015,6,Bronx,null,vehicle_count,15099354,automated_traffic_volume_counts
+2015,6,Brooklyn,null,vehicle_count,9799889,automated_traffic_volume_counts
+2015,6,Manhattan,null,vehicle_count,12200103,automated_traffic_volume_counts
+2015,6,Queens,null,vehicle_count,24897480,automated_traffic_volume_counts
+2015,6,Staten Island,null,vehicle_count,108346,automated_traffic_volume_counts
+2015,7,Bronx,null,vehicle_count,464446,automated_traffic_volume_counts
+2015,7,Brooklyn,null,vehicle_count,539125,automated_traffic_volume_counts
+2015,7,Manhattan,null,vehicle_count,1175414,automated_traffic_volume_counts
+2015,7,Queens,null,vehicle_count,1730427,automated_traffic_volume_counts
+2015,7,Staten Island,null,vehicle_count,242898,automated_traffic_volume_counts
+2015,8,Bronx,null,vehicle_count,260193,automated_traffic_volume_counts
+2015,8,Brooklyn,null,vehicle_count,2103874,automated_traffic_volume_counts
+2015,8,Manhattan,null,vehicle_count,10349456,automated_traffic_volume_counts
+2015,8,Queens,null,vehicle_count,1287658,automated_traffic_volume_counts
+2015,8,Staten Island,null,vehicle_count,801109,automated_traffic_volume_counts
+2015,9,Bronx,null,vehicle_count,11617270,automated_traffic_volume_counts
+2015,9,Brooklyn,null,vehicle_count,4726224,automated_traffic_volume_counts
+2015,9,Manhattan,null,vehicle_count,10241235,automated_traffic_volume_counts
+2015,9,Queens,null,vehicle_count,3620678,automated_traffic_volume_counts
+2015,9,Staten Island,null,vehicle_count,2830499,automated_traffic_volume_counts
+2015,10,Bronx,null,vehicle_count,5280169,automated_traffic_volume_counts
+2015,10,Brooklyn,null,vehicle_count,13504350,automated_traffic_volume_counts
+2015,10,Manhattan,null,vehicle_count,40120863,automated_traffic_volume_counts
+2015,10,Queens,null,vehicle_count,25284371,automated_traffic_volume_counts
+2015,10,Staten Island,null,vehicle_count,7234691,automated_traffic_volume_counts
+2015,11,Bronx,null,vehicle_count,6804386,automated_traffic_volume_counts
+2015,11,Brooklyn,null,vehicle_count,4115964,automated_traffic_volume_counts
+2015,11,Manhattan,null,vehicle_count,14228873,automated_traffic_volume_counts
+2015,11,Queens,null,vehicle_count,8518995,automated_traffic_volume_counts
+2015,11,Staten Island,null,vehicle_count,2150544,automated_traffic_volume_counts
+2015,12,Bronx,null,vehicle_count,102796,automated_traffic_volume_counts
+2015,12,Brooklyn,null,vehicle_count,639969,automated_traffic_volume_counts
+2015,12,Queens,null,vehicle_count,614093,automated_traffic_volume_counts
+2015,12,Staten Island,null,vehicle_count,533856,automated_traffic_volume_counts
+2016,1,Bronx,null,vehicle_count,3851889,automated_traffic_volume_counts
+2016,1,Brooklyn,null,vehicle_count,3743490,automated_traffic_volume_counts
+2016,1,Manhattan,null,vehicle_count,6610618,automated_traffic_volume_counts
+2016,1,Queens,null,vehicle_count,7022556,automated_traffic_volume_counts
+2016,1,Staten Island,null,vehicle_count,2195094,automated_traffic_volume_counts
+2016,2,Bronx,null,vehicle_count,2856361,automated_traffic_volume_counts
+2016,2,Brooklyn,null,vehicle_count,2384345,automated_traffic_volume_counts
+2016,2,Manhattan,null,vehicle_count,3702721,automated_traffic_volume_counts
+2016,2,Queens,null,vehicle_count,384831,automated_traffic_volume_counts
+2016,2,Staten Island,null,vehicle_count,1100557,automated_traffic_volume_counts
+2016,3,Bronx,null,vehicle_count,6397859,automated_traffic_volume_counts
+2016,3,Brooklyn,null,vehicle_count,8684996,automated_traffic_volume_counts
+2016,3,Manhattan,null,vehicle_count,6247722,automated_traffic_volume_counts
+2016,3,Queens,null,vehicle_count,7227282,automated_traffic_volume_counts
+2016,3,Staten Island,null,vehicle_count,2060560,automated_traffic_volume_counts
+2016,4,Bronx,null,vehicle_count,1900737,automated_traffic_volume_counts
+2016,4,Brooklyn,null,vehicle_count,7847145,automated_traffic_volume_counts
+2016,4,Manhattan,null,vehicle_count,375109,automated_traffic_volume_counts
+2016,4,Queens,null,vehicle_count,8049280,automated_traffic_volume_counts
+2016,4,Staten Island,null,vehicle_count,1021230,automated_traffic_volume_counts
+2016,5,Bronx,null,vehicle_count,16218151,automated_traffic_volume_counts
+2016,5,Brooklyn,null,vehicle_count,2146051,automated_traffic_volume_counts
+2016,5,Manhattan,null,vehicle_count,126255,automated_traffic_volume_counts
+2016,5,Queens,null,vehicle_count,8526766,automated_traffic_volume_counts
+2016,5,Staten Island,null,vehicle_count,3527557,automated_traffic_volume_counts
+2016,6,Bronx,null,vehicle_count,7769198,automated_traffic_volume_counts
+2016,6,Brooklyn,null,vehicle_count,20359452,automated_traffic_volume_counts
+2016,6,Manhattan,null,vehicle_count,4217457,automated_traffic_volume_counts
+2016,6,Queens,null,vehicle_count,25122562,automated_traffic_volume_counts
+2016,6,Staten Island,null,vehicle_count,3731948,automated_traffic_volume_counts
+2016,7,Bronx,null,vehicle_count,110591,automated_traffic_volume_counts
+2016,7,Brooklyn,null,vehicle_count,4030084,automated_traffic_volume_counts
+2016,7,Manhattan,null,vehicle_count,212840,automated_traffic_volume_counts
+2016,7,Queens,null,vehicle_count,1317969,automated_traffic_volume_counts
+2016,7,Staten Island,null,vehicle_count,5166,automated_traffic_volume_counts
+2016,8,Bronx,null,vehicle_count,91305,automated_traffic_volume_counts
+2016,8,Brooklyn,null,vehicle_count,451217,automated_traffic_volume_counts
+2016,8,Queens,null,vehicle_count,607173,automated_traffic_volume_counts
+2016,8,Staten Island,null,vehicle_count,383400,automated_traffic_volume_counts
+2016,9,Bronx,null,vehicle_count,6866729,automated_traffic_volume_counts
+2016,9,Brooklyn,null,vehicle_count,25155026,automated_traffic_volume_counts
+2016,9,Manhattan,null,vehicle_count,4774296,automated_traffic_volume_counts
+2016,9,Queens,null,vehicle_count,9227811,automated_traffic_volume_counts
+2016,9,Staten Island,null,vehicle_count,120137,automated_traffic_volume_counts
+2016,10,Bronx,null,vehicle_count,10997220,automated_traffic_volume_counts
+2016,10,Brooklyn,null,vehicle_count,27007664,automated_traffic_volume_counts
+2016,10,Manhattan,null,vehicle_count,40227334,automated_traffic_volume_counts
+2016,10,Queens,null,vehicle_count,18678667,automated_traffic_volume_counts
+2016,10,Staten Island,null,vehicle_count,1490699,automated_traffic_volume_counts
+2016,11,Bronx,null,vehicle_count,7986717,automated_traffic_volume_counts
+2016,11,Brooklyn,null,vehicle_count,11232192,automated_traffic_volume_counts
+2016,11,Manhattan,null,vehicle_count,14890705,automated_traffic_volume_counts
+2016,11,Queens,null,vehicle_count,7288490,automated_traffic_volume_counts
+2016,11,Staten Island,null,vehicle_count,5169240,automated_traffic_volume_counts
+2016,12,Bronx,null,vehicle_count,38874,automated_traffic_volume_counts
+2016,12,Brooklyn,null,vehicle_count,784456,automated_traffic_volume_counts
+2016,12,Queens,null,vehicle_count,360561,automated_traffic_volume_counts
+2017,1,Bronx,null,vehicle_count,411462,automated_traffic_volume_counts
+2017,1,Brooklyn,null,vehicle_count,3913125,automated_traffic_volume_counts
+2017,1,Manhattan,null,vehicle_count,3037482,automated_traffic_volume_counts
+2017,1,Queens,null,vehicle_count,685175,automated_traffic_volume_counts
+2017,1,Staten Island,null,vehicle_count,357991,automated_traffic_volume_counts
+2017,2,Bronx,null,vehicle_count,1328701,automated_traffic_volume_counts
+2017,2,Brooklyn,null,vehicle_count,2183857,automated_traffic_volume_counts
+2017,2,Manhattan,null,vehicle_count,3060380,automated_traffic_volume_counts
+2017,2,Queens,null,vehicle_count,578902,automated_traffic_volume_counts
+2017,2,Staten Island,null,vehicle_count,50338,automated_traffic_volume_counts
+2017,3,Bronx,null,vehicle_count,1594717,automated_traffic_volume_counts
+2017,3,Brooklyn,null,vehicle_count,3499276,automated_traffic_volume_counts
+2017,3,Manhattan,null,vehicle_count,3132529,automated_traffic_volume_counts
+2017,3,Queens,null,vehicle_count,1675678,automated_traffic_volume_counts
+2017,3,Staten Island,null,vehicle_count,478936,automated_traffic_volume_counts
+2017,4,Bronx,null,vehicle_count,4947632,automated_traffic_volume_counts
+2017,4,Brooklyn,null,vehicle_count,8421122,automated_traffic_volume_counts
+2017,4,Manhattan,null,vehicle_count,5830605,automated_traffic_volume_counts
+2017,4,Queens,null,vehicle_count,3112325,automated_traffic_volume_counts
+2017,4,Staten Island,null,vehicle_count,644265,automated_traffic_volume_counts
+2017,5,Bronx,null,vehicle_count,11906109,automated_traffic_volume_counts
+2017,5,Brooklyn,null,vehicle_count,16064760,automated_traffic_volume_counts
+2017,5,Manhattan,null,vehicle_count,3334139,automated_traffic_volume_counts
+2017,5,Queens,null,vehicle_count,10780501,automated_traffic_volume_counts
+2017,5,Staten Island,null,vehicle_count,1462319,automated_traffic_volume_counts
+2017,6,Bronx,null,vehicle_count,7490334,automated_traffic_volume_counts
+2017,6,Brooklyn,null,vehicle_count,8134443,automated_traffic_volume_counts
+2017,6,Manhattan,null,vehicle_count,10438899,automated_traffic_volume_counts
+2017,6,Queens,null,vehicle_count,26705268,automated_traffic_volume_counts
+2017,6,Staten Island,null,vehicle_count,1270806,automated_traffic_volume_counts
+2017,7,Bronx,null,vehicle_count,310545,automated_traffic_volume_counts
+2017,7,Brooklyn,null,vehicle_count,117353,automated_traffic_volume_counts
+2017,7,Manhattan,null,vehicle_count,1919547,automated_traffic_volume_counts
+2017,7,Queens,null,vehicle_count,103921,automated_traffic_volume_counts
+2017,7,Staten Island,null,vehicle_count,13366,automated_traffic_volume_counts
+2017,8,Bronx,null,vehicle_count,44229,automated_traffic_volume_counts
+2017,8,Brooklyn,null,vehicle_count,3190988,automated_traffic_volume_counts
+2017,8,Manhattan,null,vehicle_count,653755,automated_traffic_volume_counts
+2017,8,Queens,null,vehicle_count,547716,automated_traffic_volume_counts
+2017,8,Staten Island,null,vehicle_count,468625,automated_traffic_volume_counts
+2017,9,Bronx,null,vehicle_count,2978393,automated_traffic_volume_counts
+2017,9,Brooklyn,null,vehicle_count,5014620,automated_traffic_volume_counts
+2017,9,Manhattan,null,vehicle_count,3326270,automated_traffic_volume_counts
+2017,9,Queens,null,vehicle_count,5536923,automated_traffic_volume_counts
+2017,9,Staten Island,null,vehicle_count,1703121,automated_traffic_volume_counts
+2017,10,Bronx,null,vehicle_count,4534827,automated_traffic_volume_counts
+2017,10,Brooklyn,null,vehicle_count,8903230,automated_traffic_volume_counts
+2017,10,Manhattan,null,vehicle_count,51459567,automated_traffic_volume_counts
+2017,10,Queens,null,vehicle_count,5962000,automated_traffic_volume_counts
+2017,10,Staten Island,null,vehicle_count,176135,automated_traffic_volume_counts
+2017,11,Bronx,null,vehicle_count,14296061,automated_traffic_volume_counts
+2017,11,Brooklyn,null,vehicle_count,16838987,automated_traffic_volume_counts
+2017,11,Manhattan,null,vehicle_count,17264732,automated_traffic_volume_counts
+2017,11,Queens,null,vehicle_count,6748228,automated_traffic_volume_counts
+2017,11,Staten Island,null,vehicle_count,392820,automated_traffic_volume_counts
+2017,12,Bronx,null,vehicle_count,51369,automated_traffic_volume_counts
+2017,12,Brooklyn,null,vehicle_count,2311108,automated_traffic_volume_counts
+2017,12,Manhattan,null,vehicle_count,4791227,automated_traffic_volume_counts
+2017,12,Queens,null,vehicle_count,8300141,automated_traffic_volume_counts
+2017,12,Staten Island,null,vehicle_count,62359,automated_traffic_volume_counts
+2018,1,Bronx,null,vehicle_count,2935269,automated_traffic_volume_counts
+2018,1,Brooklyn,null,vehicle_count,1949646,automated_traffic_volume_counts
+2018,1,Manhattan,null,vehicle_count,5465609,automated_traffic_volume_counts
+2018,1,Queens,null,vehicle_count,782812,automated_traffic_volume_counts
+2018,2,Brooklyn,null,vehicle_count,1901644,automated_traffic_volume_counts
+2018,2,Manhattan,null,vehicle_count,979296,automated_traffic_volume_counts
+2018,2,Queens,null,vehicle_count,4128515,automated_traffic_volume_counts
+2018,2,Staten Island,null,vehicle_count,39455,automated_traffic_volume_counts
+2018,3,Bronx,null,vehicle_count,1640006,automated_traffic_volume_counts
+2018,3,Brooklyn,null,vehicle_count,3355095,automated_traffic_volume_counts
+2018,3,Manhattan,null,vehicle_count,1476484,automated_traffic_volume_counts
+2018,3,Queens,null,vehicle_count,363523,automated_traffic_volume_counts
+2018,3,Staten Island,null,vehicle_count,816147,automated_traffic_volume_counts
+2018,4,Bronx,null,vehicle_count,6894664,automated_traffic_volume_counts
+2018,4,Brooklyn,null,vehicle_count,6169196,automated_traffic_volume_counts
+2018,4,Manhattan,null,vehicle_count,989678,automated_traffic_volume_counts
+2018,4,Queens,null,vehicle_count,12700353,automated_traffic_volume_counts
+2018,4,Staten Island,null,vehicle_count,372821,automated_traffic_volume_counts
+2018,5,Bronx,null,vehicle_count,1191307,automated_traffic_volume_counts
+2018,5,Brooklyn,null,vehicle_count,2258721,automated_traffic_volume_counts
+2018,5,Manhattan,null,vehicle_count,1304462,automated_traffic_volume_counts
+2018,5,Queens,null,vehicle_count,9650239,automated_traffic_volume_counts
+2018,5,Staten Island,null,vehicle_count,361458,automated_traffic_volume_counts
+2018,6,Bronx,null,vehicle_count,13869775,automated_traffic_volume_counts
+2018,6,Brooklyn,null,vehicle_count,7052068,automated_traffic_volume_counts
+2018,6,Manhattan,null,vehicle_count,5681240,automated_traffic_volume_counts
+2018,6,Queens,null,vehicle_count,23889945,automated_traffic_volume_counts
+2018,6,Staten Island,null,vehicle_count,1201535,automated_traffic_volume_counts
+2018,7,Bronx,null,vehicle_count,65958,automated_traffic_volume_counts
+2018,7,Brooklyn,null,vehicle_count,140787,automated_traffic_volume_counts
+2018,7,Queens,null,vehicle_count,42788,automated_traffic_volume_counts
+2018,8,Bronx,null,vehicle_count,42760,automated_traffic_volume_counts
+2018,8,Brooklyn,null,vehicle_count,51357,automated_traffic_volume_counts
+2018,8,Queens,null,vehicle_count,89882,automated_traffic_volume_counts
+2018,9,Bronx,null,vehicle_count,107551,automated_traffic_volume_counts
+2018,9,Brooklyn,null,vehicle_count,128425,automated_traffic_volume_counts
+2018,9,Manhattan,null,vehicle_count,2649783,automated_traffic_volume_counts
+2018,9,Queens,null,vehicle_count,170658,automated_traffic_volume_counts
+2018,9,Staten Island,null,vehicle_count,40050,automated_traffic_volume_counts
+2018,10,Bronx,null,vehicle_count,3222534,automated_traffic_volume_counts
+2018,10,Brooklyn,null,vehicle_count,4215762,automated_traffic_volume_counts
+2018,10,Manhattan,null,vehicle_count,38149639,automated_traffic_volume_counts
+2018,10,Queens,null,vehicle_count,748460,automated_traffic_volume_counts
+2018,10,Staten Island,null,vehicle_count,300692,automated_traffic_volume_counts
+2018,11,Bronx,null,vehicle_count,2093680,automated_traffic_volume_counts
+2018,11,Brooklyn,null,vehicle_count,18337275,automated_traffic_volume_counts
+2018,11,Manhattan,null,vehicle_count,7008098,automated_traffic_volume_counts
+2018,11,Queens,null,vehicle_count,6763248,automated_traffic_volume_counts
+2018,12,Brooklyn,null,vehicle_count,391645,automated_traffic_volume_counts
+2018,12,Queens,null,vehicle_count,33997,automated_traffic_volume_counts
+2019,1,Bronx,null,vehicle_count,7262515,automated_traffic_volume_counts
+2019,1,Brooklyn,null,vehicle_count,1814026,automated_traffic_volume_counts
+2019,1,Manhattan,null,vehicle_count,6852341,automated_traffic_volume_counts
+2019,1,Queens,null,vehicle_count,15000334,automated_traffic_volume_counts
+2019,1,Staten Island,null,vehicle_count,3674870,automated_traffic_volume_counts
+2019,2,Bronx,null,vehicle_count,1479707,automated_traffic_volume_counts
+2019,2,Brooklyn,null,vehicle_count,1911894,automated_traffic_volume_counts
+2019,2,Manhattan,null,vehicle_count,6392660,automated_traffic_volume_counts
+2019,2,Queens,null,vehicle_count,2999862,automated_traffic_volume_counts
+2019,2,Staten Island,null,vehicle_count,646311,automated_traffic_volume_counts
+2019,3,Bronx,null,vehicle_count,5354296,automated_traffic_volume_counts
+2019,3,Brooklyn,null,vehicle_count,5908987,automated_traffic_volume_counts
+2019,3,Manhattan,null,vehicle_count,3398989,automated_traffic_volume_counts
+2019,3,Queens,null,vehicle_count,4351586,automated_traffic_volume_counts
+2019,3,Staten Island,null,vehicle_count,298716,automated_traffic_volume_counts
+2019,4,Bronx,null,vehicle_count,7757094,automated_traffic_volume_counts
+2019,4,Brooklyn,null,vehicle_count,1951755,automated_traffic_volume_counts
+2019,4,Manhattan,null,vehicle_count,176554,automated_traffic_volume_counts
+2019,4,Queens,null,vehicle_count,5224339,automated_traffic_volume_counts
+2019,4,Staten Island,null,vehicle_count,667105,automated_traffic_volume_counts
+2019,5,Bronx,null,vehicle_count,5120362,automated_traffic_volume_counts
+2019,5,Brooklyn,null,vehicle_count,2281747,automated_traffic_volume_counts
+2019,5,Manhattan,null,vehicle_count,915606,automated_traffic_volume_counts
+2019,5,Queens,null,vehicle_count,16015332,automated_traffic_volume_counts
+2019,5,Staten Island,null,vehicle_count,693206,automated_traffic_volume_counts
+2019,6,Bronx,null,vehicle_count,747740,automated_traffic_volume_counts
+2019,6,Brooklyn,null,vehicle_count,5240934,automated_traffic_volume_counts
+2019,6,Manhattan,null,vehicle_count,2314815,automated_traffic_volume_counts
+2019,6,Queens,null,vehicle_count,10246811,automated_traffic_volume_counts
+2019,6,Staten Island,null,vehicle_count,517410,automated_traffic_volume_counts
+2019,7,Brooklyn,null,vehicle_count,572766,automated_traffic_volume_counts
+2019,7,Queens,null,vehicle_count,348805,automated_traffic_volume_counts
+2019,8,Brooklyn,null,vehicle_count,1512532,automated_traffic_volume_counts
+2019,8,Queens,null,vehicle_count,2060295,automated_traffic_volume_counts
+2019,9,Bronx,null,vehicle_count,2331346,automated_traffic_volume_counts
+2019,9,Brooklyn,null,vehicle_count,5731193,automated_traffic_volume_counts
+2019,9,Manhattan,null,vehicle_count,344098,automated_traffic_volume_counts
+2019,9,Queens,null,vehicle_count,5522842,automated_traffic_volume_counts
+2019,9,Staten Island,null,vehicle_count,3081912,automated_traffic_volume_counts
+2019,10,Bronx,null,vehicle_count,3306992,automated_traffic_volume_counts
+2019,10,Brooklyn,null,vehicle_count,26971656,automated_traffic_volume_counts
+2019,10,Manhattan,null,vehicle_count,48248773,automated_traffic_volume_counts
+2019,10,Queens,null,vehicle_count,11570503,automated_traffic_volume_counts
+2019,10,Staten Island,null,vehicle_count,1309517,automated_traffic_volume_counts
+2019,11,Bronx,null,vehicle_count,11594289,automated_traffic_volume_counts
+2019,11,Brooklyn,null,vehicle_count,2474760,automated_traffic_volume_counts
+2019,11,Manhattan,null,vehicle_count,11857588,automated_traffic_volume_counts
+2019,11,Queens,null,vehicle_count,1513616,automated_traffic_volume_counts
+2019,11,Staten Island,null,vehicle_count,27584,automated_traffic_volume_counts
+2019,12,Bronx,null,vehicle_count,2137,automated_traffic_volume_counts
+2019,12,Brooklyn,null,vehicle_count,6444,automated_traffic_volume_counts
+2019,12,Manhattan,null,vehicle_count,603296,automated_traffic_volume_counts
+2019,12,Staten Island,null,vehicle_count,47325,automated_traffic_volume_counts
+2020,1,Queens,null,vehicle_count,48393,automated_traffic_volume_counts
+2020,1,Staten Island,null,vehicle_count,992605,automated_traffic_volume_counts
+2020,2,Brooklyn,null,vehicle_count,28488,automated_traffic_volume_counts
+2020,2,Manhattan,null,vehicle_count,63991,automated_traffic_volume_counts
+2020,2,Queens,null,vehicle_count,408483,automated_traffic_volume_counts
+2020,3,Bronx,null,vehicle_count,26194,automated_traffic_volume_counts
+2020,3,Queens,null,vehicle_count,54216,automated_traffic_volume_counts
+2020,8,Bronx,null,vehicle_count,1654181,automated_traffic_volume_counts
+2020,8,Brooklyn,null,vehicle_count,1411082,automated_traffic_volume_counts
+2020,8,Queens,null,vehicle_count,3345282,automated_traffic_volume_counts
+2020,8,Staten Island,null,vehicle_count,1346442,automated_traffic_volume_counts
+2020,9,Bronx,null,vehicle_count,1313284,automated_traffic_volume_counts
+2020,9,Brooklyn,null,vehicle_count,612169,automated_traffic_volume_counts
+2020,9,Queens,null,vehicle_count,3728041,automated_traffic_volume_counts
+2020,9,Staten Island,null,vehicle_count,324815,automated_traffic_volume_counts
+2020,10,Bronx,null,vehicle_count,9827562,automated_traffic_volume_counts
+2020,10,Manhattan,null,vehicle_count,9372849,automated_traffic_volume_counts
+2020,10,Queens,null,vehicle_count,2641995,automated_traffic_volume_counts
+2020,11,Bronx,null,vehicle_count,110946,automated_traffic_volume_counts
+2020,11,Manhattan,null,vehicle_count,798789,automated_traffic_volume_counts
+2020,11,Queens,null,vehicle_count,5009334,automated_traffic_volume_counts
+2021,5,Bronx,null,vehicle_count,495087,automated_traffic_volume_counts
+2021,5,Queens,null,vehicle_count,4180532,automated_traffic_volume_counts
+2022,10,Brooklyn,null,vehicle_count,105975,automated_traffic_volume_counts
+2022,10,Manhattan,null,vehicle_count,45221,automated_traffic_volume_counts
